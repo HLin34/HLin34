@@ -1,55 +1,61 @@
 # Hi, I'm Henry 👋
 
-**M.S. Student in Computational Finance & Risk Management at the University of Washington**  
-**Computer Science background | Quantitative Finance · Python · C++ · Data Engineering**
+I'm **Hung-Chang (Henry) Lin**, an M.S. student in **Computational Finance & Risk Management (CFRM)** at the **University of Washington** (expected December 2027). I earned a B.B.A. from **National Tsing Hua University**, with dual specializations in **Quantitative Finance** and **Computer Science**.
 
-I'm interested in the intersection of **financial markets, quantitative modeling, and software engineering**. I enjoy building practical tools that turn complex data into useful insights. I'm currently studying derivatives, investment science, and financial optimization while strengthening my programming and algorithmic problem-solving skills.
+I'm interested in **quantitative trading, derivatives pricing, financial risk modeling, and data-driven software development**. My experience spans financial research, Python data automation, and edge AI application development.
 
-## 🎯 Interests
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hung-chang-lin/)
 
-- Quantitative Trading, Market Making & Financial Engineering
-- Derivatives Pricing, Risk Modeling & Portfolio Analytics
-- Data Engineering, Automation & Applied Python
-- Algorithms, Data Structures & C++
+## Technical Skills
 
-## 🛠 Technical Toolkit
+- **Programming:** Python, C++, C, Java, R, MATLAB
+- **Data & analytics:** pandas, NumPy, statistical analysis, web scraping, Excel
+- **Tools:** Git, GitHub, Linux, VS Code
+- **Currently exploring:** optimization in finance, derivatives, investment science, and quantitative research
 
-- **Languages:** Python, C++, SQL, R
-- **Data & Applications:** pandas, Excel, Streamlit, PostgreSQL / Supabase
-- **Development:** Git, GitHub, VS Code, LaTeX
-- **Currently exploring:** Quantitative modeling, derivatives, optimization, and algorithmic problem-solving
+## Featured Projects
 
-## 📌 Selected Projects
+### Public repositories
 
-### [Socket Programming](https://github.com/HLin34/Socket_programming)
-C++ TCP client-server coursework featuring DNS lookup and record queries.
+- **[Socket Programming](https://github.com/HLin34/Socket_programming)** — C++ TCP client/server application with DNS lookup and query functionality.
+- **[NachOS 4.0](https://github.com/HLin34/NachOS-4.0)** — Operating systems coursework involving system-level programming and synchronization concepts.
+- **[Data Structures](https://github.com/HLin34/Data-Structure)** — Implementations and coursework in fundamental data structures and algorithms.
+- **[2022 Hackathon](https://github.com/HLin34/2022-Hackthon)** — Early prototyping work involving voice interaction and visual marker applications.
 
-### [NachOS 4.0](https://github.com/HLin34/NachOS-4.0)
-Operating systems coursework involving system-level programming and synchronization.
+### In progress / being prepared for public release
 
-### [Data Structures](https://github.com/HLin34/Data-Structure)
-Coursework and implementations covering fundamental data structures and algorithms.
+- **Personal Asset Dashboard** — A Python, Streamlit, and Supabase application for tracking multi-currency assets, transactions, and portfolio values. *In development; no public repository yet.*
+- **Public-data enrichment pipeline** — Python workflows for collecting, matching, and validating publicly available company information. *A generalized, non-confidential demonstration may be published after a disclosure and IP review.*
+- **Option Pricing Lab** — Planned exploration of derivatives pricing and numerical methods. *Not yet published.*
 
-### Personal Portfolio Dashboard — In Progress
-A personal project built with **Python, Streamlit, and Supabase** for tracking multi-currency assets, transactions, and portfolio views. A public repository is not yet available.
+## Professional Experience
 
-## 💼 Professional Experience
+**DBS Bank — Global Transaction Services (GTS), Summer Intern**  
+*Taipei · Jun–Aug 2026*  
+Analyzed customer transaction patterns and developed Python-based public-data collection and enrichment workflows and analytical tools supporting cross-border payments initiatives.
 
-**DBS Bank — Global Transaction Services (GTS), GlobeSend Team**  
-*Summer Intern | 2026*
+**Innovedus Inc. — Software Development Intern**  
+*Taipei · May 2025–Jul 2026*  
+Worked on edge AI applications using Kneron hardware, including facial recognition and real-time system integration.
 
-Worked on customer analytics, business-oriented financial tools, and data automation in the context of cross-border payments. Projects included campaign analysis and an interactive fee-comparison tool.
+**Stockfeel Media Technology — Financial Research Intern**  
+*Taipei · Jul–Dec 2024*  
+Researched financial markets, macroeconomic and industry trends, investment products, and strategies. Also contributed to financial content and Python-based content analysis work in a subsequent writing role.
 
-> Work experience is summarized at a high level. Internal materials, proprietary logic, and non-public data are not shared here.
+## Awards & Honors
 
-## 🎓 Education
+- 🥇 **1st Place**, AIWave: Taiwan Generative AI Applications Hackathon — AI in Finance (2024)
+- 🥉 **3rd Place**, MeiChu Hackathon — PixArt Imaging Track (2022)
+- 🏅 **Excellence Innovation Grant**, NCKU Dreams Come True Program — “Eat What” mobile app (2022)
 
-- **University of Washington** — M.S. in Computational Finance & Risk Management (2026–present)
-- **National Tsing Hua University** — Computer Science background
+## Education
 
-## 🤝 Connect
+- **University of Washington** — M.S., Computational Finance & Risk Management *(Sep 2026–Dec 2027, expected)*
+- **National Tsing Hua University** — B.B.A., Interdisciplinary Program of Management and Technology; dual specialization in Quantitative Finance & Computer Science *(2020–2024)*
+
+## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/hung-chang-lin/)
 - [GitHub](https://github.com/HLin34)
 
-I'm happy to connect with people working in quantitative finance, trading, and technology.
+> **Note:** Project summaries describe my work at a high level. Employer-confidential code, data, and internal business logic are not published here.
