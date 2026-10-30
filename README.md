@@ -17,7 +17,7 @@ I'm interested in **quantitative trading, derivatives pricing, financial risk mo
 
 ### Public repositories
 
-- **[Socket Programming](https://github.com/HLin34/Socket_programming)** — C++ TCP client/server application with DNS lookup and query functionality.
+- **[Socket Programming — C++17 TCP Server](https://github.com/HLin34/Socket_programming)** — Modernized a TCP client-server application with length-prefixed messaging, RAII socket ownership, bounded concurrency (four clients), graceful shutdown, and thread-safe JSON logging. Includes CMake, 15 automated checks, GitHub Actions CI, and reproducible localhost latency/throughput benchmarks. [v1.0.0 Release](https://github.com/HLin34/Socket_programming/releases/tag/v1.0.0).
 - **[NachOS 4.0](https://github.com/HLin34/NachOS-4.0)** — Operating systems coursework involving system-level programming and synchronization concepts.
 - **[Data Structures](https://github.com/HLin34/Data-Structure)** — Implementations and coursework in fundamental data structures and algorithms.
 - **[2022 Hackathon](https://github.com/HLin34/2022-Hackthon)** — Early prototyping work involving voice interaction and visual marker applications.
