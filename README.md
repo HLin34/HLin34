@@ -18,7 +18,7 @@ I'm interested in **quantitative trading, derivatives pricing, financial risk mo
 ### Public repositories
 
 - **[Socket Programming — C++17 TCP Server](https://github.com/HLin34/Socket_programming)** — Modernized a TCP client-server application with length-prefixed messaging, RAII socket ownership, bounded concurrency (four clients), graceful shutdown, and thread-safe JSON logging. Includes CMake, 15 automated checks, GitHub Actions CI, and reproducible localhost latency/throughput benchmarks. [v1.0.0 Release](https://github.com/HLin34/Socket_programming/releases/tag/v1.0.0).
-- **[NachOS 4.0](https://github.com/HLin34/NachOS-4.0)** — Operating systems coursework involving system-level programming and synchronization concepts.
+- **[NachOS 4.0](https://github.com/HLin34/NachOS-4.0)** — Maintained four operating systems assignments covering system calls, paged memory, preemptive CPU scheduling, and thread synchronization. Added reproducible Linux and MIPS regression tests for memory boundaries, file resource cleanup, and safe shutdown.
 - **[Data Structures](https://github.com/HLin34/Data-Structure)** — C++ implementations of fundamental data structures and algorithms, covering linked lists, trees, heaps, graph traversal, shortest paths, sorting, and symbol tables. Includes six NTHU coursework assignments with documented implementations and compilation instructions.
 - **[2022 Hackathon](https://github.com/HLin34/2022-Hackthon)** — Early prototyping work involving voice interaction and visual marker applications.
 
